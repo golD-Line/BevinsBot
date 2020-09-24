@@ -8,10 +8,3 @@ npm install
 
 Then open config.json.txt and paste the bot token in. Change the filename to `config.json`.
 
-create config.json in the main directory:
-{ 
-    "Dev" : "YOURID#",
-    "token" : "YOUR.TOKEN",
-    "prefix" : ["?","**"],
-  }
-

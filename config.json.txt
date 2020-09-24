@@ -1,5 +1,7 @@
 {
 "token":"TOKEN_GOES_HERE",
-"prefix":"<3",
-"Dev":"YOUR_DISCORD_ID"
+"prefix":"!",
+"Dev":"YOUR_DISCORD_ID",
+"inviteLink":""
+
 }
